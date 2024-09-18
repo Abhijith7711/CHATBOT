@@ -1,4 +1,5 @@
-from langchain_openai import ChatOpenAINo module named 'pydantic_core._pydantic_core'
+from langchain_openai import ChatOpenAINo
+#from langchain_openai import ChatOpenAINo module named 'pydantic_cores._pydantic_core'
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.llms import Ollama
